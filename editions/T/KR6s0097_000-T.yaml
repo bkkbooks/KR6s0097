@@ -1,0 +1,17 @@
+canonical_identifier: bkk:krp/KR6s0097/t/v1/juan/0
+seq: 0
+front:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+body:
+  text: ''
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 貞元新定釋教目錄
+  edition:
+    short: t
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/T/T55/T55n2157.xml
+    old_id: T55n2157
+hash: sha256:1fb159b411ff0f9524fc2e9aaa0daf1e811b78d3f2ac0f3622206d94468f2c98
